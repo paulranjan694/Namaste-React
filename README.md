@@ -31,3 +31,31 @@
 - Babel is a JS Compiler
 - Polyfill features 
 
+
+# Food Ordering App
+### App Layout
+ * Header 
+    - Logo
+    - Nav Items
+ * Body
+    - Search
+    - ResturantContainer
+        - ResturantCard
+            - Img
+            - Name of Res, Star Rating, cuisine, delivery time
+ * Footer
+    - Copyright
+    - Links
+    - Address
+    - Contact
+
+
+ # 2 types of Export/Import
+- Default Export/Import
+    * export default <COMPONENT_NAME>
+    * import <COMPONENT_NAME> from <PATH>
+ - Named Export/Import
+    * export const <COMPONENT_NAME>
+    * import {<COMPONENT_NAME>} from <PATH>
+
+
